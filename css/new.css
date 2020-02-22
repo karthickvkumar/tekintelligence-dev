@@ -1286,7 +1286,7 @@ div#EmbedMap {
     background-position: center center !important;
 }
 .content {
-    background-image: url(../img/placeholder/digi2.svg);
+    /* background-image: url(../img/placeholder/digi2.svg); */
 }
 .enterprise-collab {
     background-image: url(../img/service/enterprise.jpg);
@@ -2552,6 +2552,7 @@ div#EmbedMap {
 
 .header-btn {
     background-color: #6434fe;
+    background-image: -webkit-linear-gradient(0deg, #5f36ff 0%, #b719f6 100%);
     border: 1px solid transparent;
     padding-left: 30px;
     padding-right: 30px;
@@ -2581,6 +2582,7 @@ div#EmbedMap {
     margin-top: 8rem;
     color: #fff;
     font-size: 21px;
+    font-weight: 100;
 }
 
 .banner-content-span{
@@ -2596,6 +2598,7 @@ div#EmbedMap {
     margin-left: -10%;
 }
 .header-image{
-    margin-top: -50px;
+    margin-top: -25px;
 }
+
     

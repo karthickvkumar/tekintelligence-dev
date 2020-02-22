@@ -24,10 +24,10 @@ $("body").find("script").each(function () {
 
 var loader_svg = Snap("#loader");
 var loader_set;
-Snap.load("../img/loader.svg", function (f) {
-	loader_set = f.select("svg");
-	loader_svg.append(loader_set);
-});
+// Snap.load("../img/loader.svg", function (f) {
+// 	loader_set = f.select("svg");
+// 	loader_svg.append(loader_set);
+// });
 
 $(document).ready(function () {
 
