@@ -756,6 +756,10 @@ td, th {
   padding: 0;
 }
 
+.with-padding{
+  padding: 10px;
+}
+
 .section-bg {
   background: #f9fafc;
 }
